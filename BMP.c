@@ -1,7 +1,7 @@
 /*
 * Auteur 1: Mikail Cinar
 * Auteur 2: Rasit Akay
-* Link naar github repository:
+* Link naar github repository: https://github.com/Mikail3/cee-programming-BMP-invert
 */
 
 
