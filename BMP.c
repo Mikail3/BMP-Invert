@@ -10,7 +10,7 @@ typedef uint16_t WORD;
 #pragma pack(push, 1) //Disable padding
 	typedef struct SaveRGBTemporary //Struct to temporarily save 1 byte value
 	{
-		unsigned char tempRGB;
+	unsigned char tempRGB;
 	}RGBSAVE;
 	#pragma pack(pop)
 	
