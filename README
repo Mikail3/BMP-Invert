@@ -1,1 +1,3 @@
 sources used to make this program : https://stackoverflow.com/questions/39823509/inverting-colors-of-pixels-in-a-bmp-file-in-c
+
+This BMP invert code is  used to invert colors from BMP images.
