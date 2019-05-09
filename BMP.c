@@ -1,3 +1,10 @@
+/*
+* Auteur 1: Mikail Cinar
+* Auteur 2: Rasit Akay
+* Link naar github repository:
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
